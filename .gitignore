@@ -1,0 +1,14 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+upload.sh
+/slim.report.json
+/installer/
+/tmp/
+.swiftpm
+Package.resolved
+*.xcscmblueprint
+/test-project/
+.vscode

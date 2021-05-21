@@ -1,0 +1,6 @@
+"A" = "Hello";
+
+//@@link=###test:C###
+"B" = "World";
+
+"C" = "World";

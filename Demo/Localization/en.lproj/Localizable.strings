@@ -1,0 +1,37 @@
+"test.strings:A" = "VALUE_A_NEW_1";
+
+"test.strings:A_" = "VALUE_A";
+
+"test.strings:B" = "VALUE_B_2";
+
+"test.strings:B_" = "VALUE_B_2";
+
+"test.strings:How to Animate\nYour Lock Screen_tutor" = "How to Animate\nYour Lock Screen";
+
+"test.strings:Ringtones\n Catalog" = "Ringtones\nCatalog";
+
+"test.strings:The access is needed to make live wallpapers. Choose \"Settings\" and allow the app access to \"Photos\"." = "The access is needed to make live wallpapers. Choose \"Settings\" and allow the app access to \"Photos\".";
+
+"test.strings:Use as\nWallpaper_tutor" = "Use as\nWallpaper";
+
+"test1.strings:A_" = "VALUE_A";
+
+"test1.strings:Check Your\nLive Wallpaper_tutor" = "Check Your\nLive Wallpaper";
+
+"test1.strings:How to Animate\nYour Lock Screen_tutor" = "How to Animate\nYour Lock Screen";
+
+"test1.strings:Ringtones\n Catalog" = "Ringtones\nCatalog";
+
+"test1.strings:XC" = "#sdfdsf sfdsf";
+
+"test1.strings:Z" = "#Z_VALUE";
+
+"test1.strings:sdfjk 1" = "VALUE_B_2";
+
+"test2.strings:2_A" = "VALUE_A_NEW_1";
+
+"test.strings:Z" = "#";
+
+"test:KK" = "New Key";
+
+"test:KK1" = "CV";

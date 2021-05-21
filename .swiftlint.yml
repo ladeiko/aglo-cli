@@ -1,0 +1,24 @@
+excluded:
+    - .git
+    - .build
+identifier_name:
+    excluded:
+        - id
+trailing_comma:
+  mandatory_comma: true
+line_length: 256
+included:
+  - Sources
+  - Tests
+disabled_rules:
+  - statement_position
+  - identifier_name
+  - function_body_length
+  - private_over_fileprivate
+  - opening_brace
+  - type_body_length
+  - large_tuple
+  - nesting
+  - cyclomatic_complexity
+file_length: 1024
+

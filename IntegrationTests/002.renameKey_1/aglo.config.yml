@@ -1,0 +1,7 @@
+sources:
+    - Sources
+include: []
+content: Localization
+locales: 
+    - ru
+    - en

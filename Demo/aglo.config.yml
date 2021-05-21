@@ -1,0 +1,12 @@
+sources:
+    - Sources
+    - Sources2
+include: []
+content: Localization
+locales: 
+    - ru
+    - en
+clone_locale:
+    zh: en
+google:
+    spreadsheet_id: 1898hOp4aQaoLnVf-8MjbQ8_dx9jZdfY3zO5kGbv7bbk

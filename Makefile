@@ -25,4 +25,4 @@ generate-linuxmain:
 	swift test --generate-linuxmain
 
 install: build
-	cp -f "$(mkfile_dir)/.build/release/aglo-cli" /usr/local/bin
+	cp -f "$(mkfile_dir)/.build/release/aglo-cli" /usr/local/bin/
